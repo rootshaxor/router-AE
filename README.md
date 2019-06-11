@@ -4,7 +4,7 @@
 <img width="256" height="256" src="https://raw.githubusercontent.com/rootshaxor/router-AE/master/img/router-AE.png"> 
 </p>
 
-  Menjadikan linux sebagai router , kini lebih mudah dengan menggunakan router-AE
+  Menjadikan linux sebagai router , kini lebih mudah dengan menggunakan router-AE,  
 router-AE dapat dijadikan sebagai shell di linux (tidak disarankan untuk v0.0.1-alpha).
 Namun di versi sekarang masih dalam tahap pengembangan, di versi saat ini hanya memiliki
 sedikit fitur. Untuk menjalankan router-AE harus dengan `superuser`
