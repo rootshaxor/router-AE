@@ -1,7 +1,7 @@
 # router-AE
 
 <p align="center">
-<center> <img width="256" height="256" src="https://raw.githubusercontent.com/rootshaxor/router-AE/master/img/router-AE.png"> </center>
+<img width="256" height="256" src="https://raw.githubusercontent.com/rootshaxor/router-AE/master/img/router-AE.png"> 
 </p>
 
   Menjadikan linux sebagai router , kini lebih mudah dengan menggunakan router-AE
@@ -51,3 +51,6 @@ Lihat Screenshot router-AE [disini](https://github.com/rootshaxor/router-AE/blob
 
 ### Lisensi 
 [lisensi](https://github.com/rootshaxor/router-AE/blob/master/LICENSE)
+
+### Catatan
+[catatan](https://github.com/rootshaxor/router-AE/blob/master/Note.md)
