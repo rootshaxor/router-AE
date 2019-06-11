@@ -1,7 +1,7 @@
 
 |No | Version Release  | Date |
 | - |:------------------:| :--------: |
-|01 | [v0.0.1-alpha](#v0.0.1-alpha)| Jun 11 2019 |
+|01 | [v0.0.1-alpha](#v001-alpha)| Jun 11 2019 |
 
 ### v0.0.1-alpha
 Fitur :
