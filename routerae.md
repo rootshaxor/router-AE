@@ -43,12 +43,3 @@ export PATH=~/bin:$PATH
 #Menjalakan router-AE
 router-AE
 ```
-
-### Screenshot
-Lihat Screenshot router-AE [disini](https://github.com/rootshaxor/router-AE/blob/master/img/Screenshost/Screenshot.md)
-
-### Lisensi 
-[lisensi](https://github.com/rootshaxor/router-AE/blob/master/LICENSE)
-
-### Catatan
-[catatan](https://github.com/rootshaxor/router-AE/blob/master/Note.md)
